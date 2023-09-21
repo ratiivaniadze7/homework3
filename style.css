@@ -1,0 +1,28 @@
+h1{
+    color: red;
+    background-color: yellow;
+}
+table{
+    border: 4px solid black;
+    border-spacing: 3px;
+}
+.sio{
+    border: 4px solid black;
+    background-color: lightblue;
+}
+.tita{
+    border: 4px dotted  black;
+    background-color: chocolate;
+}
+.sio1{
+    background-color: lightcoral;
+    border: 4px solid black;
+}
+.bak{
+border: 3px dashed black;
+background-color: lightseagreen;
+}
+.tvit{
+ height: 200px;
+ margin-top: 120px;
+}
